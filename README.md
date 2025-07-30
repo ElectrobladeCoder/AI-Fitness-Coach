@@ -23,7 +23,7 @@ An intelligent real-time fitness assistant using OpenCV, MediaPipe, and pose est
 
 ---
 
-## 📸   How It Works
+## 📸 How It Works
 
 1. Launches webcam and tracks user using **MediaPipe Pose**.
 2. Calculates joint angles between keypoints.
@@ -40,4 +40,37 @@ Install Python dependencies using the Command Line Interface of your operating s
 
 <pre lang="markdown"> pip install opencv-python mediapipe numpy pyttsx3 flask </pre>
 
+## 🚀 How to run?
 
+If using Python, simply download the file from the 'Main' folder, and navigate to the file directory. After that it is as simple as typing:
+
+<pre lang="markdown">python3 fitnessguide.py</pre>
+
+When the OpenCV window opens, you can use the key-binds as follows:
+
+| Key | Action                  |
+| --- | ----------------------- |
+| `1` | Switch to Squat Mode    |
+| `2` | Switch to Push-Up Mode  |
+| `3` | Switch to Shoulder Mode |
+| `4` | Switch to Boxing Mode   |
+| `C` | Calibrate squat depth   |
+| `Q` | Quit the application    |
+
+---
+
+## ⭐ Key Features
+
+# 🧮 Calorie Estimation
+
+# 🧑‍🎨 Stick Figure Visualization
+
+# 🥊 Boxing Mode (NEW ADDITION!!)
+
+## Language Support
+
+Currently, the app only supports two programming languages:
+
+# 🌐 HTML and 🐍 Python
+
+While Python is the more powerful version, it requires a bit more setup. The HTML version is designed to be lightweight and easy to download and use immediately, without requiring further setup. (Sorry to the Apple device users out there, but you may encounter some issues using the program on Safari. Any other browser should work well.)
