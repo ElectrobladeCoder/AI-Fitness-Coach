@@ -62,15 +62,15 @@ When the OpenCV window opens, you can use the key-binds as follows:
 
 ---
 
-## ⭐ Key Features
+# ⭐ Key Features
 
-# 🧮 Calorie Estimation
+## 🧮 Calorie Estimation
 
-# 🧑‍🎨 Stick Figure Visualisation
+## 🧑‍🎨 Stick Figure Visualisation
 
-# 🥊 Boxing Mode (NEW ADDITION!!)
+## 🥊 Boxing Mode (NEW ADDITION!!)
 
-## Language Support
+# Language Support
 
 Currently, the app only supports two programming languages:
 
@@ -78,7 +78,7 @@ Currently, the app only supports two programming languages:
 
 While Python is the more powerful version, it requires a bit more setup. The HTML version is designed to be lightweight and easy to download and use immediately, without requiring further setup. (Sorry to the Apple device users out there, but you may encounter some issues using the program on Safari. Any other browser should work well.)
 
-## 🧠 Future Plans
+# 🧠 Future Plans
 
 [o] Real-time XP & level-up system
 [o] Flask backend API for mobile logging
@@ -88,13 +88,13 @@ While Python is the more powerful version, it requires a bit more setup. The HTM
 
 ---
 
-## 🔐 Privacy
+# 🔐 Privacy
 
 Your webcam feed is never recorded or uploaded. All processing is done locally on your machine.
 
 ---
 
-## Credits
+# Credits
 
 Created by [ElectrobladeCoder](https://github.com/ElectrobladeCoder)
 [MediaPipe Pose by Google](https://ai.google.dev/edge/mediapipe/solutions/vision/pose_landmarker)
