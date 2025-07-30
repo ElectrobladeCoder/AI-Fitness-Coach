@@ -74,7 +74,7 @@ When the OpenCV window opens, you can use the key-binds as follows:
 
 Currently, the app only supports two programming languages:
 
-# 🌐 HTML and 🐍 Python
+## 🌐 HTML and 🐍 Python
 
 While Python is the more powerful version, it requires a bit more setup. The HTML version is designed to be lightweight and easy to download and use immediately, without requiring further setup. (Sorry to the Apple device users out there, but you may encounter some issues using the program on Safari. Any other browser should work well.)
 
