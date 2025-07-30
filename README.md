@@ -38,6 +38,6 @@ An intelligent real-time fitness assistant using OpenCV, MediaPipe, and pose est
 
 Install Python dependencies using the Command Line Interface of your operating system. (Terminal for MacOS, Command Prompt for Windows, and Termial/Terminator for Linux) :
 
-<pre lang="markdown"> ```bash pip install opencv-python mediapipe numpy pyttsx3 flask ``` </pre>
+<pre lang="markdown"> pip install opencv-python mediapipe numpy pyttsx3 flask </pre>
 
 
