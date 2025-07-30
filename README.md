@@ -42,7 +42,10 @@ Install Python dependencies using the Command Line Interface of your operating s
 
 ## 🚀 How to run?
 
-If using Python, simply download the file from the 'Main' folder, and navigate to the file directory. After that it is as simple as typing:
+If using Python, simply download the file of your choice from the 'Main' folder, or the following direct links:
+[Python File](Main/python/fitnessguide.py)
+[HTML File](Main/html/fitnessguide.html)
+and navigate to the file directory on your computer. After that, it is as simple as typing:
 
 <pre lang="markdown">python3 fitnessguide.py</pre>
 
@@ -63,7 +66,7 @@ When the OpenCV window opens, you can use the key-binds as follows:
 
 # 🧮 Calorie Estimation
 
-# 🧑‍🎨 Stick Figure Visualization
+# 🧑‍🎨 Stick Figure Visualisation
 
 # 🥊 Boxing Mode (NEW ADDITION!!)
 
@@ -74,3 +77,26 @@ Currently, the app only supports two programming languages:
 # 🌐 HTML and 🐍 Python
 
 While Python is the more powerful version, it requires a bit more setup. The HTML version is designed to be lightweight and easy to download and use immediately, without requiring further setup. (Sorry to the Apple device users out there, but you may encounter some issues using the program on Safari. Any other browser should work well.)
+
+## 🧠 Future Plans
+
+[o] Real-time XP & level-up system
+[o] Flask backend API for mobile logging
+[o] Voice command control
+[o] Export workout history to CSV or Google Sheets
+[o] Machine learning-based form rating system
+
+---
+
+## 🔐 Privacy
+
+Your webcam feed is never recorded or uploaded. All processing is done locally on your machine.
+
+---
+
+## Credits
+
+Created by [ElectrobladeCoder](https://github.com/ElectrobladeCoder)
+[MediaPipe Pose by Google](https://ai.google.dev/edge/mediapipe/solutions/vision/pose_landmarker)
+[OpenCV](https://opencv.org/) for image handling
+[pyttsx3](https://pypi.org/project/pyttsx3/) for voice synthesis
